@@ -1,5 +1,5 @@
-# Dreamloom Resume ✨
-**LLM-Powered Resume Tailoring Without Losing Format**
+# Dreamloom Resume Tailor✨
+**LLM-Powered Resume Tailoring Agent --- TailoringWithout Losing Format**
 
 ## Why the Name *Dreamloom*?
 
@@ -29,6 +29,9 @@ Unlike existing tools (e.g., Simplify, ChatGPT add-ons) that break layouts, exte
 
 
 ## 📸 Demo
+
+(examples/Web_UI_Example.png)
+
 | Original Resume | Tailored Resume |
 |--|--|
 | ![Original](examples/demo_original.png) | ![Tailored](examples/demo_tailored.png) |
@@ -49,28 +52,17 @@ Unlike existing tools (e.g., Simplify, ChatGPT add-ons) that break layouts, exte
 ## 📦 Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/resume-tailor-app.git
-cd resume-tailor-app
+git clone https://github.com/jizhou3721/Dreamloom.git
+cd Dreamloom
 pip install -r requirements.txt
 ```
 
 
 ## ▶️ Usage
 
-### 1. Command Line (CLI)
-Run directly on your terminal:
-```bash
-python src/tailor_resume.py \
-  --input examples/sample_resume.docx \
-  --job examples/sample_jd.txt
-````
-
-* `--input` → Path to your resume in `.docx` format
-* `--job` → Path to a text file containing the job description
-* Output → A new tailored resume `.docx` saved alongside the original
 
 
-### 2. Streamlit Web App
+### Streamlit Web App
 
 For a no-code experience, launch the web interface:
 
@@ -114,9 +106,6 @@ resume-tailor-app/
 │   ├── sample_jd.txt         # Example job description
 │   └── output_resume.docx    # Example tailored result
 │
-├── tests/
-│   └── test_tailor_resume.py # Unit tests (optional)
-│
 ├── requirements.txt          # Dependencies
 ├── README.md                 # Documentation
 ├── LICENSE                   # Open-source license (MIT)
@@ -137,7 +126,7 @@ resume-tailor-app/
 
 ## 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGPL-3 License — see the [LICENSE](LICENSE) file for details.
 
 
 
