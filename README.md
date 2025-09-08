@@ -30,7 +30,7 @@ Unlike existing tools (e.g., Simplify, ChatGPT add-ons) that break layouts, exte
 
 ## 📸 Demo
 
-(examples/Web_UI_Example.png)
+[Web_UI](examples/Web_UI_Example.png)
 
 | Original Resume | Tailored Resume |
 |--|--|
@@ -77,7 +77,7 @@ You’ll be able to:
 * Paste or upload a job description
 * Download the tailored resume (format preserved ✅)
 
-
+[Web_UI](examples/Web_UI_Example.png)
 
 ## ⚙️ Configuration
 
@@ -144,12 +144,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 
 
 
-## 🙌 Inspiration
+## 🙌 Contacts
 
-Dreamloom Resume was built out of frustration with tools like Simplify and ChatGPT plugins that **break resume formatting**.
-Recruiters and ATS systems demand **clean, consistent, one-page resumes** — Dreamloom delivers exactly that.
-
-🚀 With Dreamloom Resume, you focus on landing interviews, not fixing formatting.
+jingzhou9981@gmail.com
 
 ```
 
