@@ -30,7 +30,9 @@ Unlike existing tools (e.g., Simplify, ChatGPT add-ons) that break layouts, exte
 
 ## 📸 Demo
 
-[Web_UI](examples/Web_UI_Example.png)
+*(Screenshots/GIF of Streamlit app here)*
+
+![Web_UI](examples/Web_UI_Example.png)
 
 | Original Resume | Tailored Resume |
 |--|--|
@@ -77,7 +79,7 @@ You’ll be able to:
 * Paste or upload a job description
 * Download the tailored resume (format preserved ✅)
 
-[Web_UI](examples/Web_UI_Example.png)
+![Web_UI](examples/Web_UI_Example.png)
 
 ## ⚙️ Configuration
 
