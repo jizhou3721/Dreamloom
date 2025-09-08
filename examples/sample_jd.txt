@@ -1,0 +1,19 @@
+Senior Data Scientist – E-commerce Analytics
+
+We are seeking a highly motivated Senior Data Scientist to join our analytics team.
+The ideal candidate will have strong expertise in machine learning, statistical
+modeling, and Python development, with experience in e-commerce or digital
+products.
+
+Responsibilities:
+- Develop predictive models to improve demand forecasting and inventory planning
+- Analyze customer behavior data to optimize marketing campaigns
+- Collaborate with engineering teams to deploy models into production
+- Present insights to stakeholders in a clear and actionable manner
+
+Requirements:
+- Master’s degree in Data Science, Statistics, or related field
+- 5+ years of industry experience in data science
+- Proficiency in Python, SQL, and machine learning frameworks
+- Strong communication and problem-solving skills
+- Experience with AWS and big data tools is a plus
