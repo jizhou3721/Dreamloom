@@ -68,6 +68,17 @@ pip install -r requirements.txt
 
 ## ▶️ Usage
 
+## ⚙️ Configuration
+
+* **API Provider**: Currently supports [OpenAI](https://platform.openai.com/) (GPT-4 family).
+* **Environment variables** (set before running):
+
+  ```bash
+  export USE_OPENAI=1
+  export OPENAI_API_KEY="your_api_key_here"
+  export OPENAI_MODEL="gpt-4o-mini"
+  ```
+* **One-page enforcement**: By default, resumes are trimmed/optimized to remain within one page (configurable in `tailor_resume.py`).
 
 
 ### Streamlit Web App
@@ -85,19 +96,6 @@ You’ll be able to:
 * Paste or upload a job description
 * Download the tailored resume (format preserved ✅)
 
-
-
-## ⚙️ Configuration
-
-* **API Provider**: Currently supports [OpenAI](https://platform.openai.com/) (GPT-4 family).
-* **Environment variables** (set before running):
-
-  ```bash
-  export USE_OPENAI=1
-  export OPENAI_API_KEY="your_api_key_here"
-  export OPENAI_MODEL="gpt-4o-mini"
-  ```
-* **One-page enforcement**: By default, resumes are trimmed/optimized to remain within one page (configurable in `tailor_resume.py`).
 
 
 
