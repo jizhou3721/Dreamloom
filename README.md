@@ -34,13 +34,13 @@ Unlike existing tools (e.g., Simplify, ChatGPT add-ons) that break layouts, exte
 
 ![Web_UI](examples/Web_UI_Example.png)
 
-### Outputs
+### Examples
 
 | Original Resume | Tailored Resume |
 |--|--|
 | ![Original](examples/demo_original.png) | ![Tailored](examples/demo_tailored.png) |
 
-*(Screenshots/GIF of Streamlit app here)*
+
 
 
 
