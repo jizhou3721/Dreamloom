@@ -1,6 +1,10 @@
 # Dreamloom Resume Tailor✨
 **LLM-Powered Resume Tailoring Agent --- TailoringWithout Losing Format**
 
+
+## What is *Dreamloom*?
+*Dreamloom* is a Streamlit web application that uses ChatGPT API to tailor resumes, while **keeping the original document formatting intact**. It also generates cover letters, and draft recruiter messages based on a job description.
+
 ## Why the Name *Dreamloom*?
 
 The name **Dreamloom** draws on the imagery of weaving dreams into fabric.  
